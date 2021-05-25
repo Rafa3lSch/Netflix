@@ -4,7 +4,6 @@ Réplique de Netflix
 ![Netflix](https://user-images.githubusercontent.com/80975453/119515561-449f1900-bd76-11eb-862c-a334321d816f.gif)
 
 
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
